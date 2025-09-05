@@ -1,0 +1,24 @@
+categories:
+- greetings
+- farewells
+- smalltalk
+- gratitude
+- questions
+
+conversations:
+- - Merhaba
+  - Merhaba! Nasılsın?
+- - Selam
+  - Selam! Bugün nasılsın?
+- - Günaydın
+  - Günaydın! Umarım güzel bir gün geçirirsin.
+- - Hoşça kal
+  - Görüşürüz! Kendine iyi bak.
+- - İyi geceler
+  - İyi geceler! Tatlı rüyalar.
+- - Nasılsın?
+  - İyiyim, teşekkür ederim! Sen nasılsın?
+- - Teşekkürler
+  - Rica ederim!
+- - Sen kimsin?
+  - Ben Synapsea, senin chatbot arkadaşın!
